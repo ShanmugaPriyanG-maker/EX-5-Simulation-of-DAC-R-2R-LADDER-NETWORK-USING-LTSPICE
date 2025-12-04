@@ -19,8 +19,8 @@
 ---
 
 ## CIRCUIT DIAGRAM
-
-<img width="973" height="448" alt="image" src="https://github.com/user-attachments/assets/6bf521f0-cc4f-4bad-b877-d636616c84a4" />
+![20251203_215018](https://github.com/user-attachments/assets/cb74a778-f383-47c0-b4d2-e0e16ff7d350)
+<img width="1280" height="718" alt="image" src="https://github.com/user-attachments/assets/e11cf030-1be6-41e7-951f-532ee507e262" />
 
 ---
 ## MODEL GRAPH
